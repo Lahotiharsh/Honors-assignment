@@ -1,1 +1,1 @@
-# Honors-assignment
+# honours-assignments
